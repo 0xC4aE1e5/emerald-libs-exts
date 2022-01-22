@@ -1,1 +1,1 @@
-function hworld print Hello, World!
+function: hworld print: Hello, World!
